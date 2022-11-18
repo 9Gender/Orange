@@ -1,5 +1,5 @@
 <html>
-<body bgcolor=green>
+<body bgcolor=tomato>
 <center>
 <h1>Welcome To Jenkins Lab</h1>
 <h2>I Am Mahesh Le510</h2>
